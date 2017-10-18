@@ -60,6 +60,16 @@
     "url": "https://techcultivation.org/"
   },
   {
+    "name": "CMS Garden",
+    "img": "CMSGarden.png",
+    "url": "http://www.cms-garden.org/en"
+  },
+   {
+    "name": "Commons Institut",
+    "img": "CommonsInstitut.png",
+    "url": "https://commons-institut.org/"
+  },
+  {
     "name": "Courage Foundation",
   	"img": "couragefound.png",
     "url": "https://couragefound.org/"

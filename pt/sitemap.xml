@@ -91,13 +91,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/categories/"
+                hreflang="en"
+                href="/Public-Code/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/categories/"
+                hreflang="eo"
+                href="/Public-Code/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/Public-Code/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -106,13 +111,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/Public-Code/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nb"
                 href="/Public-Code/nb/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/categories/"
+                hreflang="da"
+                href="/Public-Code/da/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/Public-Code/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -126,28 +141,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/categories/"
+                hreflang="tr"
+                href="/Public-Code/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -156,13 +151,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/categories/"
+                hreflang="hu"
+                href="/Public-Code/hu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
                 href="/Public-Code/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/Public-Code/sv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -344,13 +344,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/openletter/"
+                hreflang="en"
+                href="/Public-Code/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/openletter/"
+                hreflang="eo"
+                href="/Public-Code/eo/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/Public-Code/de/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -359,13 +364,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/Public-Code/fr/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nb"
                 href="/Public-Code/nb/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/openletter/"
+                hreflang="da"
+                href="/Public-Code/da/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/Public-Code/nl/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -379,28 +394,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/openletter/"
+                hreflang="tr"
+                href="/Public-Code/tr/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -409,13 +404,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/openletter/"
+                hreflang="hu"
+                href="/Public-Code/hu/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
                 href="/Public-Code/it/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/Public-Code/sv/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -513,13 +513,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/"
+                hreflang="en"
+                href="/Public-Code/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/"
+                hreflang="eo"
+                href="/Public-Code/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/Public-Code/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -528,13 +533,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/Public-Code/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nb"
                 href="/Public-Code/nb/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/"
+                hreflang="da"
+                href="/Public-Code/da/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/Public-Code/nl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -548,28 +563,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/"
+                hreflang="tr"
+                href="/Public-Code/tr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -578,13 +573,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/"
+                hreflang="hu"
+                href="/Public-Code/hu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
                 href="/Public-Code/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/Public-Code/sv/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -598,13 +598,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/tags/"
+                hreflang="en"
+                href="/Public-Code/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/tags/"
+                hreflang="eo"
+                href="/Public-Code/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/Public-Code/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -613,13 +618,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/Public-Code/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nb"
                 href="/Public-Code/nb/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/tags/"
+                hreflang="da"
+                href="/Public-Code/da/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/Public-Code/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -633,28 +648,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/tags/"
+                hreflang="tr"
+                href="/Public-Code/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -663,13 +658,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/tags/"
+                hreflang="hu"
+                href="/Public-Code/hu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
                 href="/Public-Code/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/Public-Code/sv/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -175,33 +175,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://publiccode.eu/it/categories/"
+                hreflang="sv"
+                href="https://publiccode.eu/sv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://publiccode.eu/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="https://publiccode.eu/zh_tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://publiccode.eu/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://publiccode.eu/hu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://publiccode.eu/tr/categories/"
+                hreflang="el"
+                href="https://publiccode.eu/el/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -210,13 +190,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sv"
-                href="https://publiccode.eu/sv/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://publiccode.eu/fr/categories/"
+                hreflang="nl"
+                href="https://publiccode.eu/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -225,8 +200,43 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://publiccode.eu/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://publiccode.eu/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="https://publiccode.eu/zh_tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://publiccode.eu/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://publiccode.eu/hu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://publiccode.eu/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://publiccode.eu/ca/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://publiccode.eu/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -240,16 +250,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://publiccode.eu/ca/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://publiccode.eu/el/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://publiccode.eu/es/categories/"
                 />
@@ -260,33 +260,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://publiccode.eu/it/openletter/"
+                hreflang="sv"
+                href="https://publiccode.eu/sv/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://publiccode.eu/nl/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="https://publiccode.eu/zh_tw/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://publiccode.eu/de/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://publiccode.eu/hu/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://publiccode.eu/tr/openletter/"
+                hreflang="el"
+                href="https://publiccode.eu/el/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -295,13 +275,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sv"
-                href="https://publiccode.eu/sv/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://publiccode.eu/fr/openletter/"
+                hreflang="nl"
+                href="https://publiccode.eu/nl/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -310,8 +285,43 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://publiccode.eu/de/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://publiccode.eu/fr/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="https://publiccode.eu/zh_tw/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://publiccode.eu/eo/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://publiccode.eu/hu/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://publiccode.eu/it/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://publiccode.eu/ca/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://publiccode.eu/tr/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -322,16 +332,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://publiccode.eu/pt/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://publiccode.eu/ca/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://publiccode.eu/el/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -429,33 +429,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://publiccode.eu/it/"
+                hreflang="sv"
+                href="https://publiccode.eu/sv/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://publiccode.eu/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="https://publiccode.eu/zh_tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://publiccode.eu/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://publiccode.eu/hu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://publiccode.eu/tr/"
+                hreflang="el"
+                href="https://publiccode.eu/el/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -464,13 +444,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sv"
-                href="https://publiccode.eu/sv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://publiccode.eu/fr/"
+                hreflang="nl"
+                href="https://publiccode.eu/nl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -479,8 +454,43 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://publiccode.eu/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://publiccode.eu/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="https://publiccode.eu/zh_tw/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://publiccode.eu/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://publiccode.eu/hu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://publiccode.eu/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://publiccode.eu/ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://publiccode.eu/tr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -494,16 +504,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ca"
-                href="https://publiccode.eu/ca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://publiccode.eu/el/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://publiccode.eu/es/"
                 />
@@ -514,33 +514,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://publiccode.eu/it/tags/"
+                hreflang="sv"
+                href="https://publiccode.eu/sv/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://publiccode.eu/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="https://publiccode.eu/zh_tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://publiccode.eu/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://publiccode.eu/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://publiccode.eu/tr/tags/"
+                hreflang="el"
+                href="https://publiccode.eu/el/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -549,13 +529,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sv"
-                href="https://publiccode.eu/sv/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://publiccode.eu/fr/tags/"
+                hreflang="nl"
+                href="https://publiccode.eu/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -564,8 +539,43 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://publiccode.eu/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://publiccode.eu/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="https://publiccode.eu/zh_tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://publiccode.eu/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://publiccode.eu/hu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://publiccode.eu/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://publiccode.eu/ca/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://publiccode.eu/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -576,16 +586,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://publiccode.eu/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://publiccode.eu/ca/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://publiccode.eu/el/tags/"
                 />
     <xhtml:link
                 rel="alternate"
